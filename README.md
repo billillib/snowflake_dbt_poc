@@ -1,4 +1,6 @@
-### dbt models for [your org/project name]
+### dbt models for snowflake poc
+
+Just playing around with dbt to populate snowflake. 
 
 ---
 - [What is dbt](https://dbt.readme.io/docs/overview)?
